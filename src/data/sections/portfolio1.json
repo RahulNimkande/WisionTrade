@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "image": "/img/products/marbles/Black-Marble.jpg",
+    "title": "Black Marble",
+    "tags": ["Design", "WordPress"],
+    "filterCategory": ["marble"]
+  },
+  {
+    "id": 2,
+    "image": "/img/products/marbles/HM-ONYX.jpg",
+    "title": "HM Onyx",
+    "tags": ["Design", "WordPress"],
+    "filterCategory": ["marble"]
+  },
+  {
+    "id": 3,
+    "image": "/img/products/marbles/Z-Mercury.jpg",
+    "title": "Z Mercury",
+    "tags": ["Design", "WordPress"],
+    "filterCategory": ["marble"]
+  },
+  {
+    "id": 4,
+    "image":"/img/products/marbles/Rain-Forest-Gold.jpg",
+    "title": "Rain Forest Gold",
+    "tags": ["Design", "WordPress"],
+    "filterCategory": ["marble"]
+  },
+  {
+    "id": 5,
+    "image": "/img/products/marbles/Rosa-Levanto.jpg",
+    "title": "Rosa Levanto",
+    "tags": ["Design", "WordPress"],
+    "filterCategory": ["marble"]
+  },
+  {
+    "id": 6,
+    "image": "/img/products/marbles/Spider-Green.jpg",
+    "title": "Spider Green",
+    "tags": ["Design", "WordPress"],
+    "filterCategory": ["marble"]
+  },
+  {
+    "id": 7,
+    "image": "/img/products/marbles/Onyx-White.jpg",
+    "title": "Onyx White",
+    "tags": ["Design", "WordPress"],
+    "filterCategory": ["marble"]
+  },
+  {
+    "id": 8,
+    "image": "/img/products/marbles/ONYX-HONEY.jpg",
+    "title": "Onyx Honey",
+    "tags": ["Design", "WordPress"],
+    "filterCategory": ["marble"]
+  }
+]

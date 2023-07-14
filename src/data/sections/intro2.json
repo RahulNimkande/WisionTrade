@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "Marbles & Stones",
+      "second": "-Timeless Beauty in Stone"
+    },
+    "image": "/img/slideimg/01.jpg"
+  },
+  {
+    "id": 2,
+    "title": {
+      "first": "Pharma ",
+      "second": "- Creating a Better Future of Health"
+    },
+    "image": "/img/slideimg/02.jpg"
+  },
+  {
+    "id": 3,
+    "title": {
+      "first": "Fabric",
+      "second": "- Transform Spaces with the Touch of Fabric"
+    },
+    "image": "/img/slideimg/03.jpg"
+  }
+]
