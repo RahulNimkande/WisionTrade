@@ -60,7 +60,7 @@ const VideoWithTestimonials = () => {
                 <div className="cont">
                   <Split>
                     <h3 className="wow" data-splitting>
-                      So that&apos;s us. There&apos;s no other way to put it.
+                    The Artistry of Stones
                     </h3>
                   </Split>
                 </div>

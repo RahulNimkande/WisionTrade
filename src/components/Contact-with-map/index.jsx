@@ -122,7 +122,7 @@ const ContactWithMap = ({ theme = "dark" }) => {
                   <h5>
                     <a   >info@tradedge.com</a>
                   </h5>
-                  <h5>994XXXXXXX</h5>
+                  <h5>XXXXXXXXXX</h5>
                 </div>
                 <Split>
                   <h3 className="custom-font wow" data-splitting>
@@ -133,9 +133,14 @@ const ContactWithMap = ({ theme = "dark" }) => {
                   <h6>
                     {/* S-1 Vision Residency Gut No 107, */}
                     <br />
-                    Beed Bypass Aurangabad - 431010 (MS)
+                    metus ullamcorper vel tincidunt
                   </h6>
                 </div>
+                {/* <div> */}
+                <br/>
+                <br/>
+                <img style={{ width: "fit-content", height: "150px" }} src="/img/tradedgelink.png" alt="" />
+                {/* </div> */}
                 <div className="social mt-50">
                   <a    className="icon">
                     <i className="fab fa-facebook-f"></i>
@@ -155,14 +160,14 @@ const ContactWithMap = ({ theme = "dark" }) => {
           </div>
         </div>
       </section>
-      <div className="map" id="ieatmaps">
+      {/* <div className="map" id="ieatmaps">
         <iframe
           src="https://maps.google.com/maps?q=S-1 Vision Residency Gut No 107, Beed Bypass Aurangabad - 431010 (MS)&t=&z=12&ie=UTF8&iwloc=&output=embed"
           style={{ border: 0 }}
           allowFullScreen=""
           loading="lazy"
         ></iframe>
-      </div>
+      </div> */}
 
       <footer className="footer-half sub-bg">
         <div className="container">

@@ -33,8 +33,7 @@ const Footer = ({ noSubBG }) => {
                     <span>Email : </span> info@tradedge.com
                   </li>
                   <li>
-                    <span>Address : </span> Beed
-                    Bypass Aurangabad - 431010 (MS)
+                    <span>Address : </span> metus ullamcorper vel tincidunt
                   </li>
                   <li>
                     <span>Phone : </span> (+91) XXXXXXXXXX
@@ -43,6 +42,9 @@ const Footer = ({ noSubBG }) => {
               </div>
               <div className="social-icon">
                 <h6 className="custom-font stit simple-btn">Follow Us</h6>
+
+                <img style={{ padding:"0px 0px 10px 25px", width: "fit-content", height: "125px" }} src="/img/tradedgelink.png" alt="" />
+
                 <div className="social">
                   <a   className="icon">
                     <i className="fab fa-facebook-f"></i>
@@ -111,7 +113,9 @@ const Footer = ({ noSubBG }) => {
         </div>
         <div className="copyrights text-center">
           <p>
-            © 2023, TradEdge. 
+            © 2023, <span style={{ color:"#004b82" }}>Trad</span>
+                  <span style={{ color:"#a40032" }}>E</span>
+                  <span style={{ color:"#004b82" }}>dge</span>. 
 
             Driving International Trade Success
           </p>
