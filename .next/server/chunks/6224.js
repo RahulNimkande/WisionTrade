@@ -78,7 +78,6 @@ const Clients1 = ({ theme , subBG , clientRef  })=>{
                                                         }),
                                                         /*#__PURE__*/ jsx_runtime_.jsx(Split/* default */.Z, {
                                                             children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
-                                                                href: "#0",
                                                                 className: "link words chars splitting",
                                                                 "data-splitting": true,
                                                                 children: item.url
@@ -109,7 +108,6 @@ const Clients1 = ({ theme , subBG , clientRef  })=>{
                                                         }),
                                                         /*#__PURE__*/ jsx_runtime_.jsx(Split/* default */.Z, {
                                                             children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
-                                                                href: "#0",
                                                                 className: "link words chars splitting",
                                                                 "data-splitting": true,
                                                                 children: item.url
