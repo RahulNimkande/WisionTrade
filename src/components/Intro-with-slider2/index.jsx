@@ -91,7 +91,7 @@ const IntroWithSlider2 = () => {
                               {typeof slide.title === "object" ? (
                                 <>
                                   {slide.title.first}
-                                  <div className="tline">
+                                  <div style={{fontSize:"45px", fontWeight:"200"}}  className="tline">
                                     {slide.title.second}
                                   </div>
                                 </>
@@ -134,16 +134,16 @@ const IntroWithSlider2 = () => {
         ></div>
 
         <div className="social-icon">
-          <a href="#0">
+          <a  >
             <i className="fab fa-facebook-f"></i>
           </a>
-          <a href="#0">
+          <a  >
             <i className="fab fa-twitter"></i>
           </a>
-          <a href="#0">
+          <a  >
             <i className="fab fa-behance"></i>
           </a>
-          <a href="#0">
+          <a  >
             <i className="fab fa-pinterest-p"></i>
           </a>
         </div>

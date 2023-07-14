@@ -23,37 +23,37 @@ const Footer = ({ noSubBG }) => {
           <div className="col-lg-5">
             <div className="cont">
               <div className="logo">
-                <a href="#0">
+                <a  >
                   <img src={`${appData.lightLogo}`} alt="" />
                 </a>
               </div>
               <div className="con-info custom-font">
                 <ul>
                   <li>
-                    <span>Email : </span> vistafoundation@gmail.com
+                    <span>Email : </span> info@tradedge.com
                   </li>
                   <li>
-                    <span>Address : </span>S-1 Vision Residency Gut No 107, Beed
+                    <span>Address : </span> Beed
                     Bypass Aurangabad - 431010 (MS)
                   </li>
                   <li>
-                    <span>Phone : </span> (+91) 99823394729
+                    <span>Phone : </span> (+91) XXXXXXXXXX
                   </li>
                 </ul>
               </div>
               <div className="social-icon">
                 <h6 className="custom-font stit simple-btn">Follow Us</h6>
                 <div className="social">
-                  <a href="#0" className="icon">
+                  <a   className="icon">
                     <i className="fab fa-facebook-f"></i>
                   </a>
-                  <a href="#0" className="icon">
+                  <a   className="icon">
                     <i className="fab fa-twitter"></i>
                   </a>
-                  <a href="#0" className="icon">
+                  <a   className="icon">
                     <i className="fab fa-pinterest"></i>
                   </a>
-                  <a href="#0" className="icon">
+                  <a   className="icon">
                     <i className="fab fa-behance"></i>
                   </a>
                 </div>
@@ -96,14 +96,14 @@ const Footer = ({ noSubBG }) => {
             <div className="insta">
               <h6 className="custom-font stit simple-btn">Instagram Post</h6>
               <div className="insta-gallary">
-                <a href="#0">
-                  <img src="/img/insta/1.jpg" alt="" />
+                <a  >
+                  <img src="/img/products/marbles/Golden-Crystal.jpg" alt="Golden" />
                 </a>
-                <a href="#0">
-                  <img src="/img/insta/2.jpg" alt="" />
+                <a  >
+                  <img src="/img/products/marbles/Spider-Green.jpg" alt="" />
                 </a>
-                <a href="#0">
-                  <img src="/img/insta/3.jpg" alt="" />
+                <a  >
+                  <img src="/img/products/marbles/Z-Mercury.jpg" alt="" />
                 </a>
               </div>
             </div>
@@ -111,8 +111,9 @@ const Footer = ({ noSubBG }) => {
         </div>
         <div className="copyrights text-center">
           <p>
-            © 2022, Avo Template. Made with passion by{" "}
-            <a href="#0">ThemesCamp</a>.
+            © 2023, TradEdge. 
+
+            Driving International Trade Success
           </p>
         </div>
       </div>

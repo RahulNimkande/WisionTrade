@@ -49,6 +49,31 @@
   },
   {
     "id": 7,
+    "image": "/img/products/marbles/black-forest-1.jpg",
+    "title": "Black Forest",
+    "desc": "Onyx Honey Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
+    "tags": ["Design", "WordPress"],
+    "filterCategory": ["marble"]
+  },
+  {
+    "id": 8,
+    "image": "/img/products/marbles/blackdark.jpg",
+    "title": "Black Dark",
+    "desc": " Ojas Indigo Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
+    "tags": ["Design", "WordPress"],
+    "filterCategory": ["marble"]
+  },
+
+  {
+    "id": 9,
+    "image": "/img/products/marbles/Ojas-Indigo.jpg",
+    "title": "Ojas Indigo",
+    "desc": " Ojas Indigo Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
+    "tags": ["Design", "WordPress"],
+    "filterCategory": ["marble"]
+  },
+  {
+    "id": 10,
     "image": "/img/products/marbles/Onyx-White.jpg",
     "title": "Onyx White",
     "desc": "Onyx White Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
@@ -56,11 +81,21 @@
     "filterCategory": ["marble"]
   },
   {
-    "id": 8,
+    "id": 11,
     "image": "/img/products/marbles/ONYX-HONEY.jpg",
     "title": "Onyx Honey",
     "desc": "Onyx Honey Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Design", "WordPress"],
     "filterCategory": ["marble"]
+  },
+  {
+    "id": 12,
+    "image": "/img/products/marbles/Golden-Crystal.jpg",
+    "title": "Golden Crystal",
+    "desc": "Onyx White Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
+    "tags": ["Design", "WordPress"],
+    "filterCategory": ["marble"]
   }
+
+
 ]

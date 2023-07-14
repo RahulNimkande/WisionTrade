@@ -11,15 +11,17 @@ exports.modules = {
 /* harmony export */ });
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(997);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6689);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(1664);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6689);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
+
 
 
 const AboutHeader = ()=>{
     return(/*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("header", {
         className: "pages-header bg-img valign parallaxie",
         style: {
-            backgroundImage: "url(/img/slideimg/1.jpeg)"
+            backgroundImage: "url(/img/slideimg/black-forest-1.jpg)"
         },
         "data-overlay-dark": "5",
         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
@@ -37,15 +39,14 @@ const AboutHeader = ()=>{
                             /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
                                 className: "path",
                                 children: [
-                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                        href: "#0",
+                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(next_link__WEBPACK_IMPORTED_MODULE_1__["default"], {
+                                        href: "/",
                                         children: "Home"
                                     }),
                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                         children: "/"
                                     }),
                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                        href: "#0",
                                         className: "active",
                                         children: "About Us"
                                     })
@@ -115,7 +116,7 @@ const AboutIntro = ()=>{
                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("b", {
                                             children: "Tailored Export Solutions: "
                                         }),
-                                        " We understand that every business has unique requirements. That 's why we offer customised export solutions that are tailored to your specific needs. Whether you're looking to export stones and marbles for construction projects, high-quality pharma products, or exquisite fabrics for fashion and textiles, we have the expertise to meet your demands.",
+                                        " We understand that every business has unique requirements. That 's why we offer customised export solutions that are tailored to your specific needs. Whether you're looking to export stones and marbles for construction projects we have the expertise to meet your demands.",
                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {
                                         }),
                                         "   ",
@@ -239,7 +240,7 @@ const MinimalArea = ()=>{
                             className: "img",
                             children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
                                 className: "thumparallax-down",
-                                src: "/img/min-area.jpg",
+                                src: "/img/slideimg/roman.jpg",
                                 alt: ""
                             })
                         })
@@ -260,7 +261,7 @@ const MinimalArea = ()=>{
                                     children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
                                         className: "wow txt words chars splitting",
                                         "data-splitting": true,
-                                        children: "Welcome to TradEdge, a dynamic and forward-thinking export company established in July 2023. We specialise in the global export of high-quality stones, marbles, pharma products, and fabrics. With our unwavering commitment to excellence and a customer-centric approach, we are dedicated to unlocking the global potential of businesses like yours."
+                                        children: "Welcome to TradEdge, a dynamic and forward-thinking export company established in July 2023. We specialise in the global export of high-quality Stone and Marbles. With our unwavering commitment to excellence and a customer-centric approach, we are dedicated to unlocking the global potential of businesses like yours."
                                     })
                                 }),
                                 /*#__PURE__*/ (0,jsx_runtime_.jsxs)("ul", {

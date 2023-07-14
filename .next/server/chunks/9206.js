@@ -260,12 +260,11 @@ const ContactWithMap = ({ theme ="dark"  })=>{
                                             children: [
                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h5", {
                                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                                        href: "#0",
-                                                        children: "vistafoundation@gmail.com"
+                                                        children: "info@tradedge.com"
                                                     })
                                                 }),
                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h5", {
-                                                    children: "99823394729"
+                                                    children: "994XXXXXXX"
                                                 })
                                             ]
                                         }),
@@ -280,7 +279,6 @@ const ContactWithMap = ({ theme ="dark"  })=>{
                                             className: "item",
                                             children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("h6", {
                                                 children: [
-                                                    "S-1 Vision Residency Gut No 107,",
                                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {
                                                     }),
                                                     "Beed Bypass Aurangabad - 431010 (MS)"
@@ -291,28 +289,24 @@ const ContactWithMap = ({ theme ="dark"  })=>{
                                             className: "social mt-50",
                                             children: [
                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                                    href: "#0",
                                                     className: "icon",
                                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                                         className: "fab fa-facebook-f"
                                                     })
                                                 }),
                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                                    href: "#0",
                                                     className: "icon",
                                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                                         className: "fab fa-twitter"
                                                     })
                                                 }),
                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                                    href: "#0",
                                                     className: "icon",
                                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                                         className: "fab fa-pinterest"
                                                     })
                                                 }),
                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                                    href: "#0",
                                                     className: "icon",
                                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                                         className: "fab fa-behance"
@@ -345,15 +339,8 @@ const ContactWithMap = ({ theme ="dark"  })=>{
                     className: "container",
                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                         className: "copyrights text-center mt-0",
-                        children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
-                            children: [
-                                "\xa9 2022, Avo Template. Made with passion by",
-                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                    href: "#0",
-                                    children: "ThemesCamp"
-                                }),
-                                "."
-                            ]
+                        children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
+                            children: "\xa9 2023, TradEdge. Driving International Trade Success"
                         })
                     })
                 })

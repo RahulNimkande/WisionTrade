@@ -3,12 +3,12 @@ import React from "react";
 import Clients1Data from "../../data/sections/clients1.json";
 import Split from "../Split";
 
-const Clients1 = ({ theme, subBG }) => {
+const Clients1 = ({ theme, subBG,clientRef }) => {
   var first = Clients1Data.slice(0, Clients1Data.length / 2);
   var second = Clients1Data.slice(4, Clients1Data.length);
   return (
-    <section className={`clients section-padding ${subBG ? 'sub-bg' : ''}`}>
-      <div className="container">
+    <section className={`client-section clients section-padding ${subBG ? 'sub-bg' : ''}`}>
+      <div ref={clientRef} className="container">
         <div className="row">
           <div className="col-lg-4 valign">
             <div className="sec-head custom-font mb-0">

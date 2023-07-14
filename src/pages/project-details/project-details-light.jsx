@@ -43,7 +43,7 @@ const ProjectDetailsLight = () => {
       {/* <ProjectDetailsHeader/> */}
       <ProjectDetailsIntroduction prod={prod}/>
       {/* <ProjectDetailsImages /> */}
-      {/* <ProjectDetailsDescription /> */}
+      <ProjectDetailsDescription />
       {/* <ProjectDetailsVideo
         videoBackground="/img/portfolio/project1/bg.jpg"
         videoType="vimeo"

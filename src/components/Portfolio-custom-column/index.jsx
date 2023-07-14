@@ -24,21 +24,21 @@ const PortfolioCustomColumn = ({
 
   return (
     <section className="portfolio section-padding pb-70">
-      {/* {!hideSectionTitle && (
+      {!hideSectionTitle && (
         <div className="container">
           <div className="sec-head custom-font">
             <h6 className="wow fadeIn" data-wow-delay=".5s">
-              Portfolio
+              Products
             </h6>
             <Split>
-              <h3 className="wow words chars splitting" data-splitting>
-                Our Works.
-              </h3>
+              <h1 className="wow words chars splitting" data-splitting>
+               Stone And Marbles
+              </h1>
             </Split>
             <span className="tbg text-right">Portfolio</span>
           </div>
         </div>
-      )} */}
+      )}
 
       <div className={`${column === 3 ? "container" : "container"}`}>
         <div className="row">

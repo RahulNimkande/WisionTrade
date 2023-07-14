@@ -22,7 +22,8 @@ const BlcSec = () => {
                 >
                   {/* Trade without Boundaries
                 Taking Businesses to New Frontiers */}
-                  TradEdge<br />
+                  TradEdge
+                  <br />
                   Driving International Trade Success
                 </h2>
               </Split>
@@ -34,10 +35,10 @@ const BlcSec = () => {
                 <p className="wow txt words chars splitting" data-splitting>
                   Welcome to TradEdge, a dynamic and forward-thinking export
                   company established in July 2023. We specialise in the global
-                  export of high-quality stones, marbles, pharma products, and
-                  fabrics. With our unwavering commitment to excellence and a
-                  customer-centric approach, we are dedicated to unlocking the
-                  global potential of businesses like yours.
+                  export of high-quality Stone and Marbles. With our unwavering
+                  commitment to excellence and a customer-centric approach, we
+                  are dedicated to unlocking the global potential of businesses
+                  like yours.
                 </p>
               </Split>
               <Split>

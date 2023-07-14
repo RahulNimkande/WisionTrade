@@ -45,7 +45,7 @@ const CallToAction = ({ img , theme , subBG  })=>{
                                         className: "wow words custom-font chars splitting",
                                         "data-splitting": true,
                                         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("b", {
-                                            children: "today to discuss your export requirements or to learn more about how TradEdge can help you unleash your global potential."
+                                            children: "We value your input and will get back to you as soon as possible."
                                         })
                                     })
                                 ]

@@ -85,6 +85,7 @@ _components_Intro_with_slider2__WEBPACK_IMPORTED_MODULE_6__ = (__webpack_async_d
 
 
 const Homepage2 = ()=>{
+    const clientRef = (0,react__WEBPACK_IMPORTED_MODULE_1__.useRef)(null);
     const navbarRef = react__WEBPACK_IMPORTED_MODULE_1___default().useRef(null);
     const logoRef = react__WEBPACK_IMPORTED_MODULE_1___default().useRef(null);
     react__WEBPACK_IMPORTED_MODULE_1___default().useEffect(()=>{
@@ -116,15 +117,13 @@ const Homepage2 = ()=>{
             }),
             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Blc_sec__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z, {
             }),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Services2__WEBPACK_IMPORTED_MODULE_9__/* ["default"] */ .Z, {
-            }),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Video_with_testimonials__WEBPACK_IMPORTED_MODULE_11__/* ["default"] */ .Z, {
-            }),
             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Portfolio_custom_column__WEBPACK_IMPORTED_MODULE_8__/* ["default"] */ .Z, {
                 column: 3,
+                hideFilter: "true",
                 filterPosition: "left"
             }),
             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Clients1__WEBPACK_IMPORTED_MODULE_4__/* ["default"] */ .Z, {
+                ref: clientRef,
                 theme: "light",
                 subBG: true
             }),

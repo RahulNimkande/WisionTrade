@@ -1,50 +1,50 @@
 [
   {
     "id": 1,
-    "lightImage": "/img/clients/brands/light/1.png",
+    "lightImage": "/img/clients/brands/light/FM. Technologies.png",
     "darkImage": "/img/clients/brands/dark/01.png",
-    "url": "www.avo.com"
+    "url": "FM. Technologies"
   },
   {
     "id": 2,
-    "lightImage": "/img/clients/brands/light/2.png",
+    "lightImage": "/img/clients/brands/light/Baker` Bureau.png",
     "darkImage": "/img/clients/brands/dark/02.png",
-    "url": "www.avo.com"
+    "url": "Baker` Bureau"
   },
   {
     "id": 3,
-    "lightImage": "/img/clients/brands/light/3.png",
+    "lightImage": "/img/clients/brands/light/multifly travel.png",
     "darkImage": "/img/clients/brands/dark/03.png",
-    "url": "www.avo.com"
+    "url": "Multifly Travel"
   },
   {
     "id": 4,
-    "lightImage": "/img/clients/brands/light/4.png",
+    "lightImage": "/img/clients/brands/light/Vision.png",
     "darkImage": "/img/clients/brands/dark/04.png",
-    "url": "www.avo.com"
+    "url": "Vision"
   },
   {
     "id": 5,
-    "lightImage": "/img/clients/brands/light/5.png",
+    "lightImage": "/img/clients/brands/light/TheFoOods.png",
     "darkImage": "/img/clients/brands/dark/05.png",
-    "url": "www.avo.com"
+    "url": "TheFoOods"
   },
   {
     "id": 6,
     "lightImage": "/img/clients/brands/light/6.png",
     "darkImage": "/img/clients/brands/dark/06.png",
-    "url": "www.avo.com"
+    "url": "Pioneers"
   },
   {
     "id": 7,
     "lightImage": "/img/clients/brands/light/7.png",
     "darkImage": "/img/clients/brands/dark/07.png",
-    "url": "www.avo.com"
+    "url": "Uni Fila"
   },
   {
     "id": 8,
     "lightImage": "/img/clients/brands/light/8.png",
     "darkImage": "/img/clients/brands/dark/08.png",
-    "url": "www.avo.com"
+    "url": "Shot and Cut Films"
   }
 ]

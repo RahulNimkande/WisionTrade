@@ -39,13 +39,13 @@ const ProjectDetailsIntroduction = ({ prod }) => {
               </p>
             </div>
           </div>
-          {/* <div className="col-lg-3">
+          <div className="col-lg-3">
             <div className="item mt-30">
-              <h6>Date</h6>
-              <p>6 August 2022</p>
+              <h6>Country of Origin</h6>
+              <p>Made in India</p>
             </div>
           </div>
-          <div className="col-lg-3">
+          {/* <div className="col-lg-3">
             <div className="item mt-30">
               <h6>Categories</h6>
               <p>

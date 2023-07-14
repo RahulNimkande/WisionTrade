@@ -44,7 +44,7 @@ const removeSlashFromPagination = ()=>{
 /***/ 3526:
 /***/ ((module) => {
 
-module.exports = JSON.parse('[{"id":1,"title":{"first":"Marbles & Stones","second":"-Timeless Beauty in Stone"},"image":"/img/slideimg/01.jpg"},{"id":2,"title":{"first":"Pharma ","second":"- Creating a Better Future of Health"},"image":"/img/slideimg/02.jpg"},{"id":3,"title":{"first":"Fabric","second":"- Transform Spaces with the Touch of Fabric"},"image":"/img/slideimg/03.jpg"}]');
+module.exports = JSON.parse('[{"id":1,"title":{"first":"Marbles & Stones","second":"Timeless Beauty in Stone"},"image":"/img/slideimg/01.jpg"},{"id":2,"title":{"first":"Black Marble","second":""},"image":"/img/slideimg/Black-Marble.jpg"},{"id":3,"title":{"first":"HM ONYX","second":""},"image":"/img/slideimg/HM-ONYX.jpg"},{"id":4,"title":{"first":"Z Mercury","second":""},"image":"/img/slideimg/Z-Mercury.jpg"},{"id":5,"title":{"first":"Rosa Levanto","second":""},"image":"/img/slideimg/Rosa-Levanto.jpg"},{"id":6,"title":{"first":"Rain Forest Gold","second":""},"image":"/img/slideimg/rain.jpg"}]');
 
 /***/ })
 

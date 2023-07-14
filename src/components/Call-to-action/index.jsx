@@ -20,9 +20,10 @@ const CallToAction = ({ img, theme, subBG }) => {
                   className="wow words custom-font chars splitting"
                   data-splitting
                 >
-                  <b>today to discuss your export
-                  requirements or to learn more about how TradEdge can help you
-                  unleash your global potential.</b>
+                  <b>
+                    We value your input and will get back to you as soon as
+                    possible.
+                  </b>
                 </h2>
               </Split>
             </div>

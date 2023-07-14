@@ -17,7 +17,7 @@ const AboutIntro = () => {
                 <p className="wow txt words chars splitting" data-splitting>
                 <b>Expertise and Experience: </b> With a team of seasoned professionals, we bring a wealth of expertise and knowledge to the table. Our experience in the export industry allows us to navigate the complexities of international trade with precision and efficiency.
 
-             <br/> <br/><b>Tailored Export Solutions: </b> We understand that every business has unique requirements. That &apos;s why we offer customised export solutions that are tailored to your specific needs. Whether you&apos;re looking to export stones and marbles for construction projects, high-quality pharma products, or exquisite fabrics for fashion and textiles, we have the expertise to meet your demands.
+             <br/> <br/><b>Tailored Export Solutions: </b> We understand that every business has unique requirements. That &apos;s why we offer customised export solutions that are tailored to your specific needs. Whether you&apos;re looking to export stones and marbles for construction projects we have the expertise to meet your demands.
 
              <br/>   <br/><b>Global Network: </b> Our extensive network spans across different countries and regions, enabling us to connect businesses worldwide. Through strategic partnerships and robust logistics, we ensure smooth and reliable export operations, facilitating seamless trade between you and your international counterparts.
 

@@ -2,23 +2,30 @@ import React from "react";
 
 const ProjectDetailsDescription = () => {
   return (
-    <section className="intro-section section-padding">
+    <section className="intro-section">
       <div className="container">
         <div className="row">
           <div className="col-lg-3 col-md-4">
             <div className="htit">
-              <h4>
-                <span>02 </span> Description
-              </h4>
+              <h4>Description</h4>
             </div>
           </div>
           <div className="col-lg-8 offset-lg-1 col-md-8 mb-30">
             <div className="text">
               <p className="extra-text">
-                We are a Creative Agency &amp; Startup Studio that provides Digital
-                Products and Services turns to focus on client success. We
-                specialize in user interface design, including front-end
-                development which we consider to be an integral part.
+                <b>Information:-</b> Production Capacity: 500000 square feet per
+                month Line polish machine 
+                <br />
+                <br />
+                <b>Packaging Details:-</b> Wooden Boxes, Wooden Crates
+                <br />
+                <br />
+                <b>Applications :-</b> Flooring Wall cap Bathroom Kitchen Stair
+                Raiser Wall cladding Garden Swimming pool Fountain Landscaping
+                <br />
+                <br />
+                <b>Coverage Area :-</b> Flooring , Bathroom, Bedroom, Kitchen
+                countertops etc.
               </p>
             </div>
           </div>

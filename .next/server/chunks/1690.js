@@ -49,7 +49,6 @@ const Footer = ({ noSubBG  })=>{
                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                         className: "logo",
                                         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                            href: "#0",
                                             children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("img", {
                                                 src: `${_data_app_json__WEBPACK_IMPORTED_MODULE_3__/* .lightLogo */ .E8}`,
                                                 alt: ""
@@ -65,7 +64,7 @@ const Footer = ({ noSubBG  })=>{
                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                             children: "Email : "
                                                         }),
-                                                        " vistafoundation@gmail.com"
+                                                        " info@tradedge.com"
                                                     ]
                                                 }),
                                                 /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("li", {
@@ -73,7 +72,7 @@ const Footer = ({ noSubBG  })=>{
                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                             children: "Address : "
                                                         }),
-                                                        "S-1 Vision Residency Gut No 107, Beed Bypass Aurangabad - 431010 (MS)"
+                                                        " Beed Bypass Aurangabad - 431010 (MS)"
                                                     ]
                                                 }),
                                                 /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("li", {
@@ -81,7 +80,7 @@ const Footer = ({ noSubBG  })=>{
                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                             children: "Phone : "
                                                         }),
-                                                        " (+91) 99823394729"
+                                                        " (+91) XXXXXXXXXX"
                                                     ]
                                                 })
                                             ]
@@ -98,28 +97,24 @@ const Footer = ({ noSubBG  })=>{
                                                 className: "social",
                                                 children: [
                                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                                        href: "#0",
                                                         className: "icon",
                                                         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                                             className: "fab fa-facebook-f"
                                                         })
                                                     }),
                                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                                        href: "#0",
                                                         className: "icon",
                                                         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                                             className: "fab fa-twitter"
                                                         })
                                                     }),
                                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                                        href: "#0",
                                                         className: "icon",
                                                         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                                             className: "fab fa-pinterest"
                                                         })
                                                     }),
                                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                                        href: "#0",
                                                         className: "icon",
                                                         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                                             className: "fab fa-behance"
@@ -189,23 +184,20 @@ const Footer = ({ noSubBG  })=>{
                                             className: "insta-gallary",
                                             children: [
                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                                    href: "#0",
                                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("img", {
-                                                        src: "/img/insta/1.jpg",
+                                                        src: "/img/products/marbles/Golden-Crystal.jpg",
+                                                        alt: "Golden"
+                                                    })
+                                                }),
+                                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
+                                                    children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("img", {
+                                                        src: "/img/products/marbles/Spider-Green.jpg",
                                                         alt: ""
                                                     })
                                                 }),
                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                                    href: "#0",
                                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("img", {
-                                                        src: "/img/insta/2.jpg",
-                                                        alt: ""
-                                                    })
-                                                }),
-                                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                                    href: "#0",
-                                                    children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("img", {
-                                                        src: "/img/insta/3.jpg",
+                                                        src: "/img/products/marbles/Z-Mercury.jpg",
                                                         alt: ""
                                                     })
                                                 })
@@ -219,16 +211,8 @@ const Footer = ({ noSubBG  })=>{
                 }),
                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                     className: "copyrights text-center",
-                    children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
-                        children: [
-                            "\xa9 2022, Avo Template. Made with passion by",
-                            " ",
-                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                href: "#0",
-                                children: "ThemesCamp"
-                            }),
-                            "."
-                        ]
+                    children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
+                        children: "\xa9 2023, TradEdge. Driving International Trade Success"
                     })
                 })
             ]

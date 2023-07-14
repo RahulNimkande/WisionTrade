@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useRef } from 'react';
 import BlcSec from "../../components/Blc-sec";
 import CallToAction from "../../components/Call-to-action";
 import Clients1 from "../../components/Clients1";
@@ -13,6 +13,7 @@ import LightTheme from "../../layouts/Light";
 import appData from "../../data/app.json";
 
 const Homepage2 = () => {
+  const clientRef = useRef(null);
   const navbarRef = React.useRef(null);
   const logoRef = React.useRef(null);
 
@@ -36,18 +37,20 @@ const Homepage2 = () => {
   }, [navbarRef]);
 
   return (
+
     <LightTheme>
       <Navbar nr={navbarRef} lr={logoRef} />
       <IntroWithSlider2 />
       <BlcSec />
-      <Services2 />
-      <VideoWithTestimonials />
-      {/* <SkillsCircle theme="light" subBG /> */}
-      <PortfolioCustomColumn column={3} filterPosition="left" />
-      <Clients1 theme="light" subBG />
+      {/* <Services2 /> */}
+      {/* <VideoWithTestimonials /> */}
+      {/* <SkillsCircle theme="l  ight" subBG /> */}
+      <PortfolioCustomColumn column={3} hideFilter={"true"} filterPosition="left" />
+      <Clients1 ref={clientRef} theme="light" subBG />
       <CallToAction theme="light" img="/img/pattern-light.png" />
       <Footer />
     </LightTheme>
+
   );
 };
 

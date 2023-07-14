@@ -16,7 +16,6 @@ __webpack_require__.d(__webpack_exports__, {
 var jsx_runtime_ = __webpack_require__(997);
 // EXTERNAL MODULE: external "react"
 var external_react_ = __webpack_require__(6689);
-var external_react_default = /*#__PURE__*/__webpack_require__.n(external_react_);
 // EXTERNAL MODULE: external "formik"
 var external_formik_ = __webpack_require__(2296);
 // EXTERNAL MODULE: ./node_modules/next/link.js
@@ -44,18 +43,21 @@ const handleDropdown = (e)=>{
 };
 const handleMobileDropdown = (e)=>{
     document.getElementById("navbarSupportedContent").classList.toggle("show-with-trans");
-};
-const handleSearch = ()=>{
-    let searchForm = document.querySelector(".navbar .search .search-form");
-    document.querySelector(".navbar .search .icon").addEventListener("click", function() {
-        searchForm.style.display = "block";
-        (0,customFunctions/* fadeIn */.Ji)(searchForm, 200);
-    });
-    document.querySelector(".navbar .search .search-form .close").addEventListener("click", function() {
-        searchForm.style.display = "none";
-        (0,customFunctions/* fadeOut */.U6)(searchForm, 200);
-    });
-};
+}; // export const handleSearch = () => {
+ //   let searchForm = document.querySelector(".navbar .search .search-form");
+ //   document
+ //     .querySelector(".navbar .search .icon")
+ //     .addEventListener("click", function () {
+ //       searchForm.style.display = "block";
+ //       fadeIn(searchForm, 200);
+ //     });
+ //   document
+ //     .querySelector(".navbar .search .search-form .close")
+ //     .addEventListener("click", function () {
+ //       searchForm.style.display = "none";
+ //       fadeOut(searchForm, 200);
+ //     });
+ // };
 
 ;// CONCATENATED MODULE: ./src/components/Navbar/index.jsx
 
@@ -65,9 +67,6 @@ const handleSearch = ()=>{
 
 
 const Navbar = ({ lr , nr , theme  })=>{
-    external_react_default().useEffect(()=>{
-        handleSearch();
-    }, []);
     return(/*#__PURE__*/ jsx_runtime_.jsx("nav", {
         ref: nr,
         className: `navbar navbar-expand-lg change ${theme === "themeL" ? "light" : ""}`,
@@ -121,129 +120,89 @@ const Navbar = ({ lr , nr , theme  })=>{
                         })
                     })
                 }),
-                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                /*#__PURE__*/ jsx_runtime_.jsx("div", {
                     className: "collapse navbar-collapse",
                     id: "navbarSupportedContent",
-                    children: [
-                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("ul", {
-                            className: "navbar-nav ml-auto",
-                            children: [
-                                /*#__PURE__*/ jsx_runtime_.jsx("li", {
-                                    className: "nav-item",
-                                    children: /*#__PURE__*/ jsx_runtime_.jsx(next_link["default"], {
-                                        href: "/",
-                                        children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
-                                            className: "nav-link",
-                                            children: "Home"
-                                        })
-                                    })
-                                }),
-                                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("li", {
-                                    className: "nav-item dropdown",
-                                    onClick: handleDropdown,
-                                    children: [
-                                        /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                            className: "nav-link dropdown-toggle",
-                                            "data-toggle": "dropdown",
-                                            role: "button",
-                                            "aria-haspopup": "true",
-                                            "aria-expanded": "false",
-                                            children: "Products"
-                                        }),
-                                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                            className: "dropdown-menu",
-                                            children: [
-                                                /*#__PURE__*/ jsx_runtime_.jsx(next_link["default"], {
-                                                    href: "/products/works2-light",
-                                                    children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
-                                                        className: "dropdown-item",
-                                                        children: "Stones and Marble"
-                                                    })
-                                                }),
-                                                /*#__PURE__*/ jsx_runtime_.jsx(next_link["default"], {
-                                                    href: "/products/pharma",
-                                                    children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
-                                                        className: "dropdown-item",
-                                                        children: "Pharma"
-                                                    })
-                                                }),
-                                                /*#__PURE__*/ jsx_runtime_.jsx(next_link["default"], {
-                                                    href: "/products/fabric",
-                                                    children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
-                                                        className: "dropdown-item",
-                                                        children: "Fabric"
-                                                    })
-                                                })
-                                            ]
-                                        })
-                                    ]
-                                }),
-                                /*#__PURE__*/ jsx_runtime_.jsx("li", {
-                                    className: "nav-item",
-                                    children: /*#__PURE__*/ jsx_runtime_.jsx(next_link["default"], {
-                                        href: "/about/about-light",
-                                        children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
-                                            className: "nav-link",
-                                            children: "Clients"
-                                        })
-                                    })
-                                }),
-                                /*#__PURE__*/ jsx_runtime_.jsx("li", {
-                                    className: "nav-item",
-                                    children: /*#__PURE__*/ jsx_runtime_.jsx(next_link["default"], {
-                                        href: "/about/about-light",
-                                        children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
-                                            className: "nav-link",
-                                            children: "About Us"
-                                        })
-                                    })
-                                }),
-                                /*#__PURE__*/ jsx_runtime_.jsx("li", {
-                                    className: "nav-item",
-                                    children: /*#__PURE__*/ jsx_runtime_.jsx(next_link["default"], {
-                                        href: "/contact/contact-light",
-                                        children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
-                                            className: "nav-link",
-                                            children: "Contact Us"
-                                        })
+                    children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("ul", {
+                        className: "navbar-nav ml-auto",
+                        children: [
+                            /*#__PURE__*/ jsx_runtime_.jsx("li", {
+                                className: "nav-item",
+                                children: /*#__PURE__*/ jsx_runtime_.jsx(next_link["default"], {
+                                    href: "/",
+                                    children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
+                                        className: "nav-link",
+                                        children: "Home"
                                     })
                                 })
-                            ]
-                        }),
-                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                            className: "search",
-                            children: [
-                                /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                    className: "icon pe-7s-search cursor-pointer"
-                                }),
-                                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                    className: "search-form text-center custom-font",
-                                    children: [
-                                        /*#__PURE__*/ jsx_runtime_.jsx(external_formik_.Formik, {
-                                            initialValues: {
-                                                search: ""
-                                            },
-                                            onSubmit: async (values)=>{
-                                                alert(JSON.stringify(values, null, 2));
-                                                // Reset the values
-                                                values.search = "";
-                                            },
-                                            children: ({ errors , touched  })=>/*#__PURE__*/ jsx_runtime_.jsx(external_formik_.Form, {
-                                                    children: /*#__PURE__*/ jsx_runtime_.jsx(external_formik_.Field, {
-                                                        type: "text",
-                                                        name: "search",
-                                                        placeholder: "Search"
-                                                    })
+                            }),
+                            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("li", {
+                                className: "nav-item dropdown",
+                                onClick: handleDropdown,
+                                children: [
+                                    /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                        className: "nav-link dropdown-toggle",
+                                        "data-toggle": "dropdown",
+                                        role: "button",
+                                        "aria-haspopup": "true",
+                                        "aria-expanded": "false",
+                                        children: "Products"
+                                    }),
+                                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                        className: "dropdown-menu",
+                                        children: [
+                                            /*#__PURE__*/ jsx_runtime_.jsx(next_link["default"], {
+                                                href: "/products/works2-light",
+                                                children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
+                                                    className: "dropdown-item",
+                                                    children: "Stones and Marble"
                                                 })
-                                        }),
-                                        /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                            className: "close pe-7s-close cursor-pointer"
-                                        })
-                                    ]
+                                            }),
+                                            /*#__PURE__*/ jsx_runtime_.jsx(next_link["default"], {
+                                                href: "/products/works2-light",
+                                                children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
+                                                    style: {
+                                                        pointerEvents: "none"
+                                                    },
+                                                    className: "dropdown-item"
+                                                })
+                                            })
+                                        ]
+                                    })
+                                ]
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx("li", {
+                                className: "nav-item",
+                                children: /*#__PURE__*/ jsx_runtime_.jsx(next_link["default"], {
+                                    href: "/clients/clients",
+                                    children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
+                                        className: "nav-link",
+                                        children: "Clients"
+                                    })
                                 })
-                            ]
-                        })
-                    ]
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx("li", {
+                                className: "nav-item",
+                                children: /*#__PURE__*/ jsx_runtime_.jsx(next_link["default"], {
+                                    href: "/about/about-light",
+                                    children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
+                                        className: "nav-link",
+                                        children: "About Us"
+                                    })
+                                })
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx("li", {
+                                className: "nav-item",
+                                children: /*#__PURE__*/ jsx_runtime_.jsx(next_link["default"], {
+                                    href: "/contact/contact-light",
+                                    children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
+                                        className: "nav-link",
+                                        children: "Contact Us"
+                                    })
+                                })
+                            })
+                        ]
+                    })
                 })
             ]
         })

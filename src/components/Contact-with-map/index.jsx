@@ -120,9 +120,9 @@ const ContactWithMap = ({ theme = "dark" }) => {
                 </Split>
                 <div className="item mb-40">
                   <h5>
-                    <a href="#0">vistafoundation@gmail.com</a>
+                    <a   >info@tradedge.com</a>
                   </h5>
-                  <h5>99823394729</h5>
+                  <h5>994XXXXXXX</h5>
                 </div>
                 <Split>
                   <h3 className="custom-font wow" data-splitting>
@@ -131,22 +131,22 @@ const ContactWithMap = ({ theme = "dark" }) => {
                 </Split>
                 <div className="item">
                   <h6>
-                    S-1 Vision Residency Gut No 107,
+                    {/* S-1 Vision Residency Gut No 107, */}
                     <br />
                     Beed Bypass Aurangabad - 431010 (MS)
                   </h6>
                 </div>
                 <div className="social mt-50">
-                  <a href="#0" className="icon">
+                  <a    className="icon">
                     <i className="fab fa-facebook-f"></i>
                   </a>
-                  <a href="#0" className="icon">
+                  <a    className="icon">
                     <i className="fab fa-twitter"></i>
                   </a>
-                  <a href="#0" className="icon">
+                  <a    className="icon">
                     <i className="fab fa-pinterest"></i>
                   </a>
-                  <a href="#0" className="icon">
+                  <a    className="icon">
                     <i className="fab fa-behance"></i>
                   </a>
                 </div>
@@ -168,8 +168,9 @@ const ContactWithMap = ({ theme = "dark" }) => {
         <div className="container">
           <div className="copyrights text-center mt-0">
             <p>
-              © 2022, Avo Template. Made with passion by
-              <a href="#0">ThemesCamp</a>.
+            © 2023, TradEdge. 
+
+Driving International Trade Success
             </p>
           </div>
         </div>

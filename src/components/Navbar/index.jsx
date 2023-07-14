@@ -1,18 +1,16 @@
 /* eslint-disable @next/next/no-img-element */
-import React from "react";
+import React, { useContext ,useRef } from "react";
 import { Formik, Form, Field } from "formik";
 import Link from "next/link";
 import appData from "../../data/app.json";
 import {
   handleDropdown,
   handleMobileDropdown,
-  handleSearch,
+  // handleSearch,
 } from "../../common/navbar";
 
 const Navbar = ({ lr, nr, theme }) => {
-  React.useEffect(() => {
-    handleSearch();
-  }, []);
+ 
   return (
     <nav
       ref={nr}
@@ -25,12 +23,27 @@ const Navbar = ({ lr, nr, theme }) => {
           <a className="logo">
             {theme ? (
               theme === "themeL" ? (
-                <img  style={{width:"fit-content", height:"25px"}}   ref={lr} src={`${appData.darkLogo}`} alt="logo" />
+                <img
+                  style={{ width: "fit-content", height: "25px" }}
+                  ref={lr}
+                  src={`${appData.darkLogo}`}
+                  alt="logo"
+                />
               ) : (
-                <img  style={{width:"fit-content", height:"25px"}}   ref={lr} src={`${appData.lightLogo}`} alt="logo" />
+                <img
+                  style={{ width: "fit-content", height: "25px" }}
+                  ref={lr}
+                  src={`${appData.lightLogo}`}
+                  alt="logo"
+                />
               )
             ) : (
-              <img  style={{width:"fit-content", height:"25px"}}  ref={lr} src={`${appData.lightLogo}`} alt="logo" />
+              <img
+                style={{ width: "fit-content", height: "25px" }}
+                ref={lr}
+                src={`${appData.lightLogo}`}
+                alt="logo"
+              />
             )}
           </a>
         </Link>
@@ -128,12 +141,18 @@ const Navbar = ({ lr, nr, theme }) => {
                 <Link href="/products/works2-light">
                   <a className="dropdown-item">Stones and Marble</a>
                 </Link>
-                <Link href="/products/pharma">
+                <Link href="/products/works2-light">
+                  <a
+                    style={{ pointerEvents: "none" }}
+                    className="dropdown-item"
+                  ></a>
+                </Link>
+                {/* <Link href="/products/pharma">
                   <a className="dropdown-item">Pharma</a>
-                </Link>
-                <Link href="/products/fabric">
+                </Link> */}
+                {/* <Link href="/products/fabric">
                   <a className="dropdown-item">Fabric</a>
-                </Link>
+                </Link> */}
                 {/* <Link href="/showcase4/showcase4-dark">
                   <a className="dropdown-item">Columns Carousel</a>
                 </Link>
@@ -147,10 +166,18 @@ const Navbar = ({ lr, nr, theme }) => {
                 <a className="nav-link">About</a>
               </Link>
             </li> */}
-             <li className="nav-item">
-              <Link href="/about/about-light">
+            <li className="nav-item">
+              {/* <ScrollLink
+                to="client-section"
+                smooth={true}
+                offset={-100}
+                duration={500}
+                onClick={() => scroll.scrollToTop()} // Scroll to top if already at the target section
+              > */}
+                <Link href="/clients/clients">
                 <a className="nav-link">Clients</a>
-              </Link>
+                </Link>
+              {/* </ScrollLink> */}
             </li>
             <li className="nav-item">
               <Link href="/about/about-light">
@@ -193,7 +220,7 @@ const Navbar = ({ lr, nr, theme }) => {
               </Link>
             </li>
           </ul>
-          <div className="search">
+          {/* <div className="search">
             <span className="icon pe-7s-search cursor-pointer"></span>
             <div className="search-form text-center custom-font">
               <Formik
@@ -214,7 +241,7 @@ const Navbar = ({ lr, nr, theme }) => {
               </Formik>
               <span className="close pe-7s-close cursor-pointer"></span>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </nav>

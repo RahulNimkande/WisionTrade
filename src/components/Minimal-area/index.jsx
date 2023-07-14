@@ -19,7 +19,7 @@ const MinimalArea = () => {
             <div className="img">
               <img
                 className="thumparallax-down"
-                src="/img/min-area.jpg"
+                src="/img/slideimg/roman.jpg"
                 alt=""
               />
             </div>
@@ -31,7 +31,7 @@ const MinimalArea = () => {
                   className="wow custom-font words chars splitting"
                   data-splitting
                 >
-                 TradEdge :
+                  TradEdge :
                 </h4>
               </Split>
 
@@ -39,10 +39,10 @@ const MinimalArea = () => {
                 <p className="wow txt words chars splitting" data-splitting>
                   Welcome to TradEdge, a dynamic and forward-thinking export
                   company established in July 2023. We specialise in the global
-                  export of high-quality stones, marbles, pharma products, and
-                  fabrics. With our unwavering commitment to excellence and a
-                  customer-centric approach, we are dedicated to unlocking the
-                  global potential of businesses like yours.
+                  export of high-quality Stone and Marbles. With our unwavering
+                  commitment to excellence and a customer-centric approach, we
+                  are dedicated to unlocking the global potential of businesses
+                  like yours.
                   {/* Vision: To become a global leader in export services, driving
                   growth and prosperity for our clients, employees, and
                   stakeholders. */}

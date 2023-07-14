@@ -70,7 +70,7 @@ const BlcSec = ()=>{
                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
                                         className: "wow txt words chars splitting",
                                         "data-splitting": true,
-                                        children: "Welcome to TradEdge, a dynamic and forward-thinking export company established in July 2023. We specialise in the global export of high-quality stones, marbles, pharma products, and fabrics. With our unwavering commitment to excellence and a customer-centric approach, we are dedicated to unlocking the global potential of businesses like yours."
+                                        children: "Welcome to TradEdge, a dynamic and forward-thinking export company established in July 2023. We specialise in the global export of high-quality Stone and Marbles. With our unwavering commitment to excellence and a customer-centric approach, we are dedicated to unlocking the global potential of businesses like yours."
                                     })
                                 }),
                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_Split__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .Z, {
@@ -212,6 +212,10 @@ const IntroWithSlider2 = ()=>{
                                                             children: [
                                                                 slide.title.first,
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                                                    style: {
+                                                                        fontSize: "45px",
+                                                                        fontWeight: "200"
+                                                                    },
                                                                     className: "tline",
                                                                     children: slide.title.second
                                                                 })
@@ -254,25 +258,21 @@ const IntroWithSlider2 = ()=>{
                     className: "social-icon",
                     children: [
                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                            href: "#0",
                             children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                 className: "fab fa-facebook-f"
                             })
                         }),
                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                            href: "#0",
                             children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                 className: "fab fa-twitter"
                             })
                         }),
                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                            href: "#0",
                             children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                 className: "fab fa-behance"
                             })
                         }),
                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                            href: "#0",
                             children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                 className: "fab fa-pinterest-p"
                             })

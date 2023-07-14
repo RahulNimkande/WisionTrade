@@ -7,6 +7,7 @@
   "/blog-details/blog-details-light": "pages/blog-details/blog-details-light.html",
   "/blog/blog-dark": "pages/blog/blog-dark.html",
   "/blog/blog-light": "pages/blog/blog-light.html",
+  "/clients/clients": "pages/clients/clients.html",
   "/contact/contact-dark": "pages/contact/contact-dark.html",
   "/contact/contact-light": "pages/contact/contact-light.html",
   "/demos": "pages/demos.html",

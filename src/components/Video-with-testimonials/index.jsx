@@ -24,7 +24,7 @@ const VideoWithTestimonials = () => {
     <section className="block-sec">
       <div
         className="background bg-img section-padding pb-0"
-        style={{ backgroundImage: `url(/img/slideimg/2.jpeg)` }}
+        style={{ backgroundImage: `url(/img/slideimg/blackgold.jpg)` }}
         data-overlay-dark="8"
       >
         <div className="container">
@@ -69,14 +69,14 @@ const VideoWithTestimonials = () => {
             <div className="col-lg-5 offset-lg-1">
               <div className="testim-box">
                 <div className="head-box">
-                  <h6 className="wow fadeIn" data-wow-delay=".5s">
+                  <h4 className="wow fadeIn" data-wow-delay=".5s">
                     Our Happy Clients
-                  </h6>
-                  <h4 className="wow fadeInLeft" data-wow-delay=".5s">
-                    What Client&apos;s Say?
                   </h4>
+                  {/* <h4 className="wow fadeInLeft" data-wow-delay=".5s">
+                    What Client&apos;s Say?
+                  </h4> */}
                 </div>
-                <Slider
+                {/* <Slider
                   {...settings}
                   className="slic-item wow fadeInUp"
                   data-wow-delay=".5s"
@@ -153,7 +153,7 @@ const VideoWithTestimonials = () => {
                       </div>
                     </div>
                   </div>
-                </Slider>
+                </Slider> */}
               </div>
             </div>
           </div>

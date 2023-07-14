@@ -1,10 +1,11 @@
+import Link from "next/link";
 import React from "react";
 
 const AboutHeader = () => {
   return (
     <header
       className="pages-header bg-img valign parallaxie"
-      style={{ backgroundImage: "url(/img/slideimg/1.jpeg)" }}
+      style={{ backgroundImage: "url(/img/slideimg/black-forest-1.jpg)" }}
       data-overlay-dark="5"
     >
       <div className="container">
@@ -13,9 +14,9 @@ const AboutHeader = () => {
             <div className="cont text-center">
               <h1>About Us</h1>
               <div className="path">
-                <a href="#0">Home</a>
+                <Link href="/" >Home</Link>
                 <span>/</span>
-                <a href="#0" className="active">
+                <a   className="active">
                   About Us
                 </a>
               </div>
