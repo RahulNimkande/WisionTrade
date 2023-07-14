@@ -10,7 +10,7 @@ const PortfolioCustomColumn = ({
   filterPosition,
   hideFilter,
   hideSectionTitle,
-  filterCategory
+  filterCategory,
 }) => {
   const [pageLoaded, setPageLoaded] = React.useState(false);
   React.useEffect(() => {
@@ -21,6 +21,7 @@ const PortfolioCustomColumn = ({
       }, 1000);
     }
   }, [pageLoaded]);
+
   return (
     <section className="portfolio section-padding pb-70">
       {/* {!hideSectionTitle && (
@@ -82,8 +83,10 @@ const PortfolioCustomColumn = ({
                 data-wow-delay=".4s"
               >
                 <div className="item-img">
-                  {/* <Link href="/project-details2/project-details2-dark"> */}
-                  <Link href="/">
+                  <Link
+                    href={`/project-details/project-details-light?id=${item.id}`}
+                  >
+                    {/* <Link href="/"> */}
 
                     <a className="imago wow">
                       <img src={item.image} alt="image" />

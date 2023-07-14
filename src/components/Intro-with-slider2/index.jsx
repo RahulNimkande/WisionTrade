@@ -100,11 +100,11 @@ const IntroWithSlider2 = () => {
                               )}
                             </h1>
                           </Split>
-                          <Link href="/products/works2-light">
+                          {/* <Link href="/products/works2-light">
                             <a className="simple-btn mt-50">
                               <span>Discover Works</span>
                             </a>
-                          </Link>
+                          </Link> */}
                         </div>
                       </div>
                     </div>

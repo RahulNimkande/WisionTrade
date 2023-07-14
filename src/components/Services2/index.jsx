@@ -69,7 +69,7 @@ const Services2 = () => {
                 Stones and<br /> Marbles
               </h6>
               <div className="text-right">
-                <Link href="/about/about-dark">
+                <Link href="/products/works2-light">
                   <a className="more">
                     <i className="fas fa-chevron-right"></i>
                   </a>
@@ -88,7 +88,7 @@ const Services2 = () => {
                 Pharma <br />
               </h6>
               <div className="text-right">
-                <Link href="/about/about-dark">
+                <Link href="/products/pharma">
                   <a className="more">
                     <i className="fas fa-chevron-right"></i>
                   </a>
@@ -107,7 +107,7 @@ const Services2 = () => {
                 Fabric <br />
               </h6>
               <div className="text-right">
-                <Link href="/about/about-dark">
+                <Link href="/products/fabric">
                   <a className="more">
                     <i className="fas fa-chevron-right"></i>
                   </a>

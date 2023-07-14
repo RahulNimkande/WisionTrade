@@ -62,7 +62,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_Footer__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(1690);
 /* harmony import */ var _components_Intro_with_slider2__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(6469);
 /* harmony import */ var _components_Navbar__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(4848);
-/* harmony import */ var _components_Portfolio_custom_column__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(1240);
+/* harmony import */ var _components_Portfolio_custom_column__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(7743);
 /* harmony import */ var _components_Services2__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(6156);
 /* harmony import */ var _components_Skills_circle__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(5222);
 /* harmony import */ var _components_Video_with_testimonials__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(3205);
