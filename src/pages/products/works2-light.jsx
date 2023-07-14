@@ -1,7 +1,6 @@
 import React from "react";
 import LightTheme from "../../layouts/Light";
 import Navbar from "../../components/Navbar";
-import WorksThreeColumnWithFilter from "../../components/Works-three-column-with-filter";
 import SmallFooter from "../../components/Small-footer";
 import addParlx from "../../common/addParlx";
 import PortfolioCustomColumn from "../../components/Portfolio-custom-column";

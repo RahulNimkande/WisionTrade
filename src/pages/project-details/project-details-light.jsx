@@ -1,16 +1,11 @@
 import React from "react";  
 import LightTheme from "../../layouts/Light";
 import Navbar from "../../components/Navbar";
-import ProjectDetailsHeader from "../../components/Project-details-header";
 import ProjectDetailsIntroduction from "../../components/Project-details-introduction";
-import ProjectDetailsImages from "../../components/Project-details-images";
 import ProjectDetailsDescription from "../../components/Project-details-description";
-import ProjectDetailsVideo from "../../components/Project-details-video";
-import NextProject from "../../components/Next-project";
 import SmallFooter from "../../components/Small-footer";
 import { useRouter } from "next/router";
 import portfolio1Data from "../../data/sections/portfolio1.json";
-import Link from "next/link";
 
 const ProjectDetailsLight = () => {
   const router = useRouter();

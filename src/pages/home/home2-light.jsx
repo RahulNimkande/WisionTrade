@@ -6,9 +6,6 @@ import Footer from "../../components/Footer";
 import IntroWithSlider2 from "../../components/Intro-with-slider2";
 import Navbar from "../../components/Navbar";
 import PortfolioCustomColumn from "../../components/Portfolio-custom-column";
-import Services2 from "../../components/Services2";
-import SkillsCircle from "../../components/Skills-circle";
-import VideoWithTestimonials from "../../components/Video-with-testimonials";
 import LightTheme from "../../layouts/Light";
 import appData from "../../data/app.json";
 
