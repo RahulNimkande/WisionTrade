@@ -139,7 +139,7 @@ const ContactWithMap = ({ theme = "dark" }) => {
                 {/* <div> */}
                 <br/>
                 <br/>
-                <img style={{ width: "fit-content", height: "150px" }} src="/img/tradedgelink.png" alt="" />
+                <img style={{ width: "150px", height: "150px" }} src="/img/tradedgelink.png" alt="" />
                 {/* </div> */}
                 <div className="social mt-50">
                   <a    className="icon">
@@ -173,9 +173,11 @@ const ContactWithMap = ({ theme = "dark" }) => {
         <div className="container">
           <div className="copyrights text-center mt-0">
             <p>
-            © 2023, TradEdge. 
+            © 2023, <span style={{ color:"#004b82" }}>Trad</span>
+                  <span style={{ color:"#a40032" }}>E</span>
+                  <span style={{ color:"#004b82" }}>dge</span>. 
 
-Driving International Trade Success
+            Driving International Trade Success
             </p>
           </div>
         </div>

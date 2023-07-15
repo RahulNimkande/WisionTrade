@@ -35,7 +35,7 @@ const PortfolioCustomColumn = ({
                Stone And Marbles
               </h1>
             </Split>
-            <span className="tbg text-right">Portfolio</span>
+            <span className="tbg text-right">Products</span>
           </div>
         </div>
       )}
@@ -96,14 +96,14 @@ const PortfolioCustomColumn = ({
                 </div>
                 <div className="cont">
                   <h6>{item.title}</h6>
-                  {/* <span>
+                  <span>
                     {item.tags.map((tag, index) => (
                       <React.Fragment key={index * 3}>
                         <Link href="/works4/works4-dark">{tag}</Link>
                         {index == item.tags.length - 1 ? "" : ","}
                       </React.Fragment>
                     ))}
-                  </span> */}
+                  </span>
                 </div>
               </div>
             ))}

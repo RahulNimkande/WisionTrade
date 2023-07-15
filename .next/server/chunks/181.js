@@ -103,7 +103,7 @@ const PortfolioCustomColumn = ({ column , filterPosition , hideFilter , hideSect
                         }),
                         /*#__PURE__*/ jsx_runtime_.jsx("span", {
                             className: "tbg text-right",
-                            children: "Portfolio"
+                            children: "Products"
                         })
                     ]
                 })
@@ -140,7 +140,7 @@ const PortfolioCustomColumn = ({ column , filterPosition , hideFilter , hideSect
                         }),
                         /*#__PURE__*/ jsx_runtime_.jsx("div", {
                             className: "gallery full-width",
-                            children: portfolio1.map((item, index)=>/*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                            children: portfolio1.map((item, index1)=>/*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
                                     className: `${column === 3 ? "col-lg-4 col-md-6" : column === 2 ? "col-md-6" : "col-12"} items ${item.filterCategory} wow fadeInUp ${item.id === 2 && column == 3 ? "lg-mr" : item.id === 1 && column == 2 ? "lg-mr" : ""}`,
                                     "data-wow-delay": ".4s",
                                     children: [
@@ -162,11 +162,25 @@ const PortfolioCustomColumn = ({ column , filterPosition , hideFilter , hideSect
                                                 })
                                             })
                                         }),
-                                        /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
                                             className: "cont",
-                                            children: /*#__PURE__*/ jsx_runtime_.jsx("h6", {
-                                                children: item.title
-                                            })
+                                            children: [
+                                                /*#__PURE__*/ jsx_runtime_.jsx("h6", {
+                                                    children: item.title
+                                                }),
+                                                /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                                    children: item.tags.map((tag, index)=>/*#__PURE__*/ (0,jsx_runtime_.jsxs)((external_react_default()).Fragment, {
+                                                            children: [
+                                                                /*#__PURE__*/ jsx_runtime_.jsx(next_link["default"], {
+                                                                    href: "/works4/works4-dark",
+                                                                    children: tag
+                                                                }),
+                                                                index == item.tags.length - 1 ? "" : ","
+                                                            ]
+                                                        }, index * 3)
+                                                    )
+                                                })
+                                            ]
                                         })
                                     ]
                                 }, item.id)

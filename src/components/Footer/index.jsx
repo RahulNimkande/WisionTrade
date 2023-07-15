@@ -43,7 +43,7 @@ const Footer = ({ noSubBG }) => {
               <div className="social-icon">
                 <h6 className="custom-font stit simple-btn">Follow Us</h6>
 
-                <img style={{ padding:"0px 0px 10px 25px", width: "fit-content", height: "125px" }} src="/img/tradedgelink.png" alt="" />
+                <img style={{ padding:"0px 0px 10px 25px", width: "140px", height: "125px" }} src="/img/tradedgelink.png" alt="" />
 
                 <div className="social">
                   <a   className="icon">

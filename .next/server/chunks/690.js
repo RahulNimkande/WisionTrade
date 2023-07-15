@@ -96,7 +96,7 @@ const Footer = ({ noSubBG  })=>{
                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("img", {
                                                 style: {
                                                     padding: "0px 0px 10px 25px",
-                                                    width: "fit-content",
+                                                    width: "140px",
                                                     height: "125px"
                                                 },
                                                 src: "/img/tradedgelink.png",

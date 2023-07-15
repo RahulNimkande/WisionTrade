@@ -5,9 +5,9 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/offxckTZQ5XGCerN5-r7U/_buildManifest.js",
-    "static/offxckTZQ5XGCerN5-r7U/_ssgManifest.js",
-    "static/offxckTZQ5XGCerN5-r7U/_middlewareManifest.js"
+    "static/jqSwrmdlHeSJKq_MFvb4a/_buildManifest.js",
+    "static/jqSwrmdlHeSJKq_MFvb4a/_ssgManifest.js",
+    "static/jqSwrmdlHeSJKq_MFvb4a/_middlewareManifest.js"
   ],
   "pages": {
     "/": [
@@ -16,8 +16,8 @@
       "static/chunks/main-8a41031e1038fac7.js",
       "static/chunks/468-d286f37e04eba1b4.js",
       "static/chunks/485-10549c986a807fb5.js",
-      "static/chunks/892-4e88c28a9c96fa9e.js",
-      "static/chunks/857-eee6e689f05667a9.js",
+      "static/chunks/892-17d72507e45b35f4.js",
+      "static/chunks/857-4e0300be196007e9.js",
       "static/chunks/261-eb08e9aa4e8f73ee.js",
       "static/css/f591ecb19150cd6b.css",
       "static/chunks/pages/index-f1141fd975ec2854.js"
@@ -40,7 +40,7 @@
       "static/chunks/framework-91d7f78b5b4003c8.js",
       "static/chunks/main-8a41031e1038fac7.js",
       "static/chunks/468-d286f37e04eba1b4.js",
-      "static/chunks/pages/about/about-light-4b900449820272f3.js"
+      "static/chunks/pages/about/about-light-40b2da5ce64bfca0.js"
     ],
     "/clients/clients": [
       "static/chunks/webpack-49b6f2937c9ce9f4.js",
@@ -48,7 +48,7 @@
       "static/chunks/main-8a41031e1038fac7.js",
       "static/chunks/468-d286f37e04eba1b4.js",
       "static/chunks/881-b518a84c9794a6b0.js",
-      "static/chunks/857-eee6e689f05667a9.js",
+      "static/chunks/857-4e0300be196007e9.js",
       "static/css/af704b31ce1b4740.css",
       "static/chunks/pages/clients/clients-41cc7e121dd67507.js"
     ],
@@ -58,7 +58,7 @@
       "static/chunks/main-8a41031e1038fac7.js",
       "static/chunks/468-d286f37e04eba1b4.js",
       "static/chunks/669-6a3f5e769fbeea5a.js",
-      "static/chunks/pages/contact/contact-light-b40348f85311c391.js"
+      "static/chunks/pages/contact/contact-light-9ca58af298529337.js"
     ],
     "/home/home2-light": [
       "static/chunks/webpack-49b6f2937c9ce9f4.js",
@@ -66,8 +66,8 @@
       "static/chunks/main-8a41031e1038fac7.js",
       "static/chunks/468-d286f37e04eba1b4.js",
       "static/chunks/485-10549c986a807fb5.js",
-      "static/chunks/892-4e88c28a9c96fa9e.js",
-      "static/chunks/857-eee6e689f05667a9.js",
+      "static/chunks/892-17d72507e45b35f4.js",
+      "static/chunks/857-4e0300be196007e9.js",
       "static/chunks/261-eb08e9aa4e8f73ee.js",
       "static/css/f591ecb19150cd6b.css",
       "static/chunks/pages/home/home2-light-813490106d514165.js"
@@ -77,7 +77,7 @@
       "static/chunks/framework-91d7f78b5b4003c8.js",
       "static/chunks/main-8a41031e1038fac7.js",
       "static/chunks/468-d286f37e04eba1b4.js",
-      "static/chunks/892-4e88c28a9c96fa9e.js",
+      "static/chunks/892-17d72507e45b35f4.js",
       "static/chunks/pages/products/fabric-d4dfff039d12254f.js"
     ],
     "/products/pharma": [
@@ -85,7 +85,7 @@
       "static/chunks/framework-91d7f78b5b4003c8.js",
       "static/chunks/main-8a41031e1038fac7.js",
       "static/chunks/468-d286f37e04eba1b4.js",
-      "static/chunks/892-4e88c28a9c96fa9e.js",
+      "static/chunks/892-17d72507e45b35f4.js",
       "static/chunks/pages/products/pharma-90ad56a94215c746.js"
     ],
     "/products/works2-light": [
@@ -93,7 +93,7 @@
       "static/chunks/framework-91d7f78b5b4003c8.js",
       "static/chunks/main-8a41031e1038fac7.js",
       "static/chunks/468-d286f37e04eba1b4.js",
-      "static/chunks/892-4e88c28a9c96fa9e.js",
+      "static/chunks/892-17d72507e45b35f4.js",
       "static/chunks/pages/products/works2-light-abba9d49108a69f8.js"
     ],
     "/project-details/project-details-light": [
