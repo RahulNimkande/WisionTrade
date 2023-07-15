@@ -79,7 +79,7 @@ const Navbar = ({ lr , nr , theme  })=>{
                         className: "logo",
                         children: theme ? theme === "themeL" ? /*#__PURE__*/ jsx_runtime_.jsx("img", {
                             style: {
-                                width: "fit-content",
+                                width: "88px",
                                 height: "25px"
                             },
                             ref: lr,
@@ -87,7 +87,7 @@ const Navbar = ({ lr , nr , theme  })=>{
                             alt: "logo"
                         }) : /*#__PURE__*/ jsx_runtime_.jsx("img", {
                             style: {
-                                width: "fit-content",
+                                width: "88px",
                                 height: "25px"
                             },
                             ref: lr,
@@ -95,7 +95,7 @@ const Navbar = ({ lr , nr , theme  })=>{
                             alt: "logo"
                         }) : /*#__PURE__*/ jsx_runtime_.jsx("img", {
                             style: {
-                                width: "fit-content",
+                                width: "88px",
                                 height: "25px"
                             },
                             ref: lr,

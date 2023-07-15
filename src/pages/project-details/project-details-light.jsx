@@ -11,7 +11,6 @@ const ProjectDetailsLight = () => {
   const router = useRouter();
   const { id } = router.query;
   const prod = portfolio1Data.find(item => item.id == id);
-  // const prodTitle = prod ? prod.title : '';
   console.log(prod);
   const navbarRef = React.useRef(null);
   const logoRef = React.useRef(null);

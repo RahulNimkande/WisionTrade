@@ -6,6 +6,7 @@ const ProjectDetailsIntroduction = ({ prod }) => {
   const imgsrc = prod ? prod.image : " ";
   const desc = prod ? prod.desc : " ";
   const cate = prod ? prod.filterCategory : " ";
+  const origin = prod ? prod.origin : " ";
   
   return (
     <section className="intro-section section-padding">
@@ -42,7 +43,7 @@ const ProjectDetailsIntroduction = ({ prod }) => {
           <div className="col-lg-3">
             <div className="item mt-30">
               <h6>Country of Origin</h6>
-              <p>Made in India</p>
+              <p>{origin}</p>
             </div>
           </div>
           {/* <div className="col-lg-3">

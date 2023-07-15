@@ -5,7 +5,8 @@
     "title": "Black Marble",
     "desc": "Black marble is one of the most beautiful and preferred marbles by those who admire stunning and luxurious natural stones. Our Black Marble Stone in Qatar has perfect customized veins that can grab eyeballs and create a stir in any place. It has an intense color in its base which resembles a night sky illuminated by the alteration of bright white veins and fossils. Marble stands out in crowds because we ensure that calcite, the main mineral of this rock, is present in a huge proportion of around 98%.",
     "tags": ["Design", "WordPress"],
-    "filterCategory": ["marble"]
+    "filterCategory": ["marble"],
+    "origin": "Made in India"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "title": "HM Onyx",
     "desc": "HM Onyx Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Design", "WordPress"],
-    "filterCategory": ["marble"]
+    "filterCategory": ["marble"],
+    "origin": "Made in India"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "title": "Z Mercury",
     "desc": "Z-Mercury Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Design", "WordPress"],
-    "filterCategory": ["marble"]
+    "filterCategory": ["marble"],
+    "origin": "Made in France"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "title": "Rain Forest Gold",
     "desc": "Rain Forest Gold Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Design", "WordPress"],
-    "filterCategory": ["marble"]
+    "filterCategory": ["marble"],
+    "origin": "Made in Italy"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "title": "Rosa Levanto",
     "desc": "Rosa Levanto Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Design", "WordPress"],
-    "filterCategory": ["marble"]
+    "filterCategory": ["marble"],
+    "origin": "Made in Italy"
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "title": "Spider Green",
     "desc": "Spider Green Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Design", "WordPress"],
-    "filterCategory": ["marble"]
+    "filterCategory": ["marble"],
+    "origin": "Made in Japan"
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "title": "Black Forest",
     "desc": "Onyx Honey Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Design", "WordPress"],
-    "filterCategory": ["marble"]
+    "filterCategory": ["marble"],
+    "origin": "Made in India"
   },
   {
     "id": 8,
@@ -61,7 +68,9 @@
     "title": "Black Dark",
     "desc": " Ojas Indigo Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Design", "WordPress"],
-    "filterCategory": ["marble"]
+    "filterCategory": ["marble"],
+    "origin": "Made in India"
+
   },
 
   {
@@ -70,7 +79,9 @@
     "title": "Ojas Indigo",
     "desc": " Ojas Indigo Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Design", "WordPress"],
-    "filterCategory": ["marble"]
+    "filterCategory": ["marble"],
+    "origin": "Made in India"
+
   },
   {
     "id": 10,
@@ -78,7 +89,9 @@
     "title": "Onyx White",
     "desc": "Onyx White Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Design", "WordPress"],
-    "filterCategory": ["marble"]
+    "filterCategory": ["marble"],
+    "origin": "Made in India"
+
   },
   {
     "id": 11,
@@ -86,7 +99,9 @@
     "title": "Onyx Honey",
     "desc": "Onyx Honey Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Design", "WordPress"],
-    "filterCategory": ["marble"]
+    "filterCategory": ["marble"],
+    "origin": "Made in Paris"
+
   },
   {
     "id": 12,
@@ -94,7 +109,9 @@
     "title": "Golden Crystal",
     "desc": "Onyx White Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Design", "WordPress"],
-    "filterCategory": ["marble"]
+    "filterCategory": ["marble"],
+    "origin": "Made in Paris"
+
   }
 
 

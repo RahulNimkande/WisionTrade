@@ -1,5 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
-import React, { useContext ,useRef } from "react";
+import React, { useContext, useRef } from "react";
 import { Formik, Form, Field } from "formik";
 import Link from "next/link";
 import appData from "../../data/app.json";
@@ -10,7 +10,6 @@ import {
 } from "../../common/navbar";
 
 const Navbar = ({ lr, nr, theme }) => {
- 
   return (
     <nav
       ref={nr}
@@ -24,14 +23,14 @@ const Navbar = ({ lr, nr, theme }) => {
             {theme ? (
               theme === "themeL" ? (
                 <img
-                  style={{ width: "fit-content", height: "25px" }}
+                  style={{ width: "88px", height: "25px" }}
                   ref={lr}
                   src={`${appData.darkLogo}`}
                   alt="logo"
                 />
               ) : (
                 <img
-                  style={{ width: "fit-content", height: "25px" }}
+                  style={{ width: "88px", height: "25px" }}
                   ref={lr}
                   src={`${appData.lightLogo}`}
                   alt="logo"
@@ -39,7 +38,7 @@ const Navbar = ({ lr, nr, theme }) => {
               )
             ) : (
               <img
-                style={{ width: "fit-content", height: "25px" }}
+                style={{ width: "88px", height: "25px" }}
                 ref={lr}
                 src={`${appData.lightLogo}`}
                 alt="logo"
@@ -174,9 +173,9 @@ const Navbar = ({ lr, nr, theme }) => {
                 duration={500}
                 onClick={() => scroll.scrollToTop()} // Scroll to top if already at the target section
               > */}
-                <Link href="/clients/clients">
+              <Link href="/clients/clients">
                 <a className="nav-link">Clients</a>
-                </Link>
+              </Link>
               {/* </ScrollLink> */}
             </li>
             <li className="nav-item">
