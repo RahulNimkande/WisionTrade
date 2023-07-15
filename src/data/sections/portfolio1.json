@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "/img/marbles/Black-Marble.jpg",
+    "image": "/img/products/marbles/Black-Marble.jpg",
     "title": "Black Marble",
     "desc": "Black marble is one of the most beautiful and preferred marbles by those who admire stunning and luxurious natural stones. Our Black Marble Stone in Qatar has perfect customized veins that can grab eyeballs and create a stir in any place. It has an intense color in its base which resembles a night sky illuminated by the alteration of bright white veins and fossils. Marble stands out in crowds because we ensure that calcite, the main mineral of this rock, is present in a huge proportion of around 98%.",
     "tags": ["Marbles"],
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "image": "/img/marbles/HM-ONYX.jpg",
+    "image": "/img/products/marbles/HM-ONYX.jpg",
     "title": "HM Onyx",
     "desc": "HM Onyx Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Marbles"],
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "image": "/img/marbles/Z-Mercury.jpg",
+    "image": "/img/products/marbles/Z-Mercury.jpg",
     "title": "Z Mercury",
     "desc": "Z-Mercury Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Marbles"],
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "image":"/img/marbles/Rain-Forest-Gold.jpg",
+    "image":"/img/products/marbles/Rain-Forest-Gold.jpg",
     "title": "Rain Forest Gold",
     "desc": "Rain Forest Gold Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Marbles"],
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "image": "/img/marbles/Rosa-Levanto.jpg",
+    "image": "/img/products/marbles/Rosa-Levanto.jpg",
     "title": "Rosa Levanto",
     "desc": "Rosa Levanto Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Marbles"],
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "image": "/img/marbles/Spider-Green.jpg",
+    "image": "/img/products/marbles/Spider-Green.jpg",
     "title": "Spider Green",
     "desc": "Spider Green Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Marbles"],
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "image": "/img/marbles/black-forest-1.jpg",
+    "image": "/img/products/marbles/black-forest-1.jpg",
     "title": "Black Forest",
     "desc": "Onyx Honey Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Marbles"],
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "image": "/img/marbles/blackdark.jpg",
+    "image": "/img/products/marbles/blackdark.jpg",
     "title": "Black Dark",
     "desc": " Ojas Indigo Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Marbles"],
@@ -75,7 +75,7 @@
 
   {
     "id": 9,
-    "image": "/img/marbles/Ojas-Indigo.jpg",
+    "image": "/img/products/marbles/Ojas-Indigo.jpg",
     "title": "Ojas Indigo",
     "desc": " Ojas Indigo Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Marbles"],
@@ -85,7 +85,7 @@
   },
   {
     "id": 10,
-    "image": "/img/marbles/Onyx-White.jpg",
+    "image": "/img/products/marbles/Onyx-White.jpg",
     "title": "Onyx White",
     "desc": "Onyx White Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Marbles"],
@@ -95,7 +95,7 @@
   },
   {
     "id": 11,
-    "image": "/img/marbles/ONYX-HONEY.jpg",
+    "image": "/img/products/marbles/ONYX-HONEY.jpg",
     "title": "Onyx Honey",
     "desc": "Onyx Honey Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Marbles"],
@@ -105,7 +105,7 @@
   },
   {
     "id": 12,
-    "image": "/img/marbles/Golden-Crystal.jpg",
+    "image": "/img/products/marbles/Golden-Crystal.jpg",
     "title": "Golden Crystal",
     "desc": "Onyx White Marbles is available in both slabs and tiles to allow for creative and coordinated installations. This durable marble is suitable for both interior and exterior projects and recommended for marble countertops, accent walls, backsplashes, cladding, floors, and other features.",
     "tags": ["Marbles"],
