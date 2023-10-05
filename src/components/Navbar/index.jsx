@@ -19,18 +19,18 @@ const Navbar = ({ lr, nr, theme }) => {
     >
       <div className="container">
         <Link href="/">
-          <a className="logo">
+          <a style={{width:"100px"}} className="logo">
             {theme ? (
               theme === "themeL" ? (
                 <img
-                  style={{ width: "88px", height: "25px" }}
+                  style={{ width: "100%", height: "100%" }}
                   ref={lr}
                   src={`${appData.darkLogo}`}
                   alt="logo"
                 />
               ) : (
                 <img
-                  style={{ width: "88px", height: "25px" }}
+                  style={{ width: "100%", height: "100%" }}
                   ref={lr}
                   src={`${appData.lightLogo}`}
                   alt="logo"
@@ -38,7 +38,7 @@ const Navbar = ({ lr, nr, theme }) => {
               )
             ) : (
               <img
-                style={{ width: "88px", height: "25px" }}
+                style={{ width: "100%", height: "100%" }}
                 ref={lr}
                 src={`${appData.lightLogo}`}
                 alt="logo"

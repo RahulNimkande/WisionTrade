@@ -120,7 +120,7 @@ const ContactWithMap = ({ theme = "dark" }) => {
                 </Split>
                 <div className="item mb-40">
                   <h5>
-                    <a   >info@tradedge.com</a>
+                    <a   >info@wisiontrade.com</a>
                   </h5>
                   <h5>XXXXXXXXXX</h5>
                 </div>
@@ -173,9 +173,8 @@ const ContactWithMap = ({ theme = "dark" }) => {
         <div className="container">
           <div className="copyrights text-center mt-0">
             <p>
-            © 2023, <span style={{ color:"#004b82" }}>Trad</span>
-                  <span style={{ color:"#a40032" }}>E</span>
-                  <span style={{ color:"#004b82" }}>dge</span>. 
+            © 2023, <span style={{ color: "#8d042e" }}>Wision</span>
+                  <span style={{ color: "#b09b64" }}>Trade</span>. 
 
             Driving International Trade Success
             </p>

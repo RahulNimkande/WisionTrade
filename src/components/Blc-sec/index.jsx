@@ -22,9 +22,9 @@ const BlcSec = () => {
                 >
                   {/* Trade without Boundaries
                 Taking Businesses to New Frontiers */}
-                  <span style={{ color: "#004b82" }}>Trad</span>
-                  <span style={{ color: "#a40032" }}>E</span>
-                  <span style={{ color: "#004b82" }}>dge</span>
+                <span style={{ color: "#8d042e" }}>Wision</span>
+                  <span style={{ color: "#b09b64" }}>Trade</span>
+                 
                   <br />
                   Driving International Trade Success
                 </h2>
@@ -35,13 +35,11 @@ const BlcSec = () => {
             <div className="full-width">
               <Split>
                 <p className="wow txt words chars splitting" data-splitting>
-                  Welcome to <span style={{ color: "#004b82" }}>Trad</span>
-                  <span style={{ color: "#a40032" }}>E</span>
-                  <span style={{ color: "#004b82" }}>dge</span>, a dynamic and
+                  Welcome to <span style={{ color: "#8d042e" }}>Wision</span>
+                  <span style={{ color: "#b09b64" }}>Trade</span>, a dynamic and
                   forward-thinking export company.{" "}
-                  <span style={{ color: "#004b82" }}>Trad</span>
-                  <span style={{ color: "#a40032" }}>E</span>
-                  <span style={{ color: "#004b82" }}>dge</span> is iso certified
+                  <span style={{ color: "#8d042e" }}>Wision</span>
+                  <span style={{ color: "#b09b64" }}>Trade</span> is iso certified
                   company specialise in the global export of high-quality Stone
                   and Marbles. With our unwavering commitment to excellence and
                   a customer-centric approach, we are dedicated to unlocking the

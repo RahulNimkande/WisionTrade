@@ -36,9 +36,8 @@ const AboutIntro = () => {
                   international counterparts.
                   <br /> <br />
                   <b>Quality Assurance: </b> At{" "}
-                  <span style={{ color: "#004b82" }}>Trad</span>
-                  <span style={{ color: "#a40032" }}>E</span>
-                  <span style={{ color: "#004b82" }}>dge</span>, quality is our
+                  <span style={{ color: "#8d042e" }}>Wision</span>
+                  <span style={{ color: "#b09b64" }}>Trade</span>, quality is our
                   top priority. We meticulously select our export products,
                   ensuring they meet the highest industry standards. From the
                   sourcing process to the final delivery, we maintain stringent

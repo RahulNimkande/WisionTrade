@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>tradEdge</title>
+        <title>WISION TRADE</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Cursor />

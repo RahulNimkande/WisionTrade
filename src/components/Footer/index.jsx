@@ -23,14 +23,14 @@ const Footer = ({ noSubBG }) => {
           <div className="col-lg-5">
             <div className="cont">
               <div className="logo">
-                <a  >
+                <a style={{width:"100px"}} >
                   <img src={`${appData.lightLogo}`} alt="" />
                 </a>
               </div>
               <div className="con-info custom-font">
                 <ul>
                   <li>
-                    <span>Email : </span> info@tradedge.com
+                    <span>Email : </span> info@wisiontrade.com
                   </li>
                   <li>
                     <span>Address : </span> metus ullamcorper vel tincidunt
@@ -113,9 +113,8 @@ const Footer = ({ noSubBG }) => {
         </div>
         <div className="copyrights text-center">
           <p>
-            © 2023, <span style={{ color:"#004b82" }}>Trad</span>
-                  <span style={{ color:"#a40032" }}>E</span>
-                  <span style={{ color:"#004b82" }}>dge</span>. 
+            © 2023, <span style={{ color: "#8d042e" }}>Wision</span>
+                  <span style={{ color: "#b09b64" }}>Trade</span>. 
 
             Driving International Trade Success
           </p>

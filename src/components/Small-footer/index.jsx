@@ -7,7 +7,7 @@ const SmallFooter = () => {
           <div className="container">
             <div className="copyrights text-center mt-0">
               <p>
-                © 2023, <Link href="/">TradEdge.</Link> Driving International Trade Success.
+                © 2023, <Link href="/">WISION TRADE.</Link> Driving International Trade Success.
                 
               </p>
             </div>

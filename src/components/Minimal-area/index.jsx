@@ -31,20 +31,17 @@ const MinimalArea = () => {
                   className="wow custom-font words chars splitting"
                   data-splitting
                 >
-                  <span style={{ color:"#004b82" }}>Trad</span>
-                  <span style={{ color:"#a40032" }}>E</span>
-                  <span style={{ color:"#004b82" }}>dge</span> :
+                  <span style={{ color: "#8d042e" }}>Wision</span>
+                  <span style={{ color: "#b09b64" }}>Trade</span> :
                 </h4>
               </Split>
 
               <Split>
                 <p className="wow txt words chars splitting" data-splitting>
-                  Welcome to <span style={{ color:"#004b82" }}>Trad</span>
-                  <span style={{ color:"#a40032" }}>E</span>
-                  <span style={{ color:"#004b82" }}>dge</span>, a dynamic and forward-thinking export
-                  company. <span style={{ color:"#004b82" }}>Trad</span>
-                  <span style={{ color:"#a40032" }}>E</span>
-                  <span style={{ color:"#004b82" }}>dge</span> is iso certified company specialise in the global
+                  Welcome to <span style={{ color: "#8d042e" }}>Wision</span>
+                  <span style={{ color: "#b09b64" }}>Trade</span>, a dynamic and forward-thinking export
+                  company. <span style={{ color: "#8d042e" }}>Wision</span>
+                  <span style={{ color: "#b09b64" }}>Trade</span> is iso certified company specialise in the global
                   export of high-quality Stone and Marbles. With our unwavering
                   commitment to excellence and a customer-centric approach, we
                   are dedicated to unlocking the global potential of businesses
